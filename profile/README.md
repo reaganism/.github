@@ -13,7 +13,7 @@
 </div>
 -->
 
-<img src="../assets/trulyhumblebanner.png" alt="TSC Banner" align="right" width="33%" />
+<img src="https://github.com/reaganism/.github/blob/main/assets/trulyhumblebanner.png" alt="TSC Banner" align="right" width="33%" />
 
 # truly humble under god
 
